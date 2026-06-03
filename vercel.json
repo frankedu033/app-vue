@@ -1,5 +1,0 @@
-{
-  "redirects": [
-    { "source": "/(.*)", "destination": "https://frankedu.me/$1", "permanent": true }
-  ]
-}
