@@ -43,7 +43,6 @@ const handleLogout = (): void => {
   <div class="container mt-5" style="font-family: sans-serif; max-width: 600px;"> 
      
     <div v-if="!isAuthenticated" class="card shadow border-0"> 
-Programación robusta con TypeScript: estructuras de control con interfaces 
       <div class="card-header bg-dark text-white text-center py-3"> 
         <h4 class="mb-0"> Sistema de Gestión - ITPM</h4> 
         <small class="text-muted">Asignatura: DPW-207</small> 
@@ -91,7 +90,6 @@ align-items-center py-3">
           Salir  
         </button> 
       </div> 
-Programación robusta con TypeScript: estructuras de control con interfaces 
       <div class="card-body p-4 text-center"> 
         <h4 class="text-success fw-bold">¡Bienvenido, Lic. Félix Maldonado!</h4> 
         <p class="text-muted small">Control de Inventarios en Tiempo Real</p> 
