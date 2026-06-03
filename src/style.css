@@ -54,6 +54,9 @@
 
 body {
   margin: 0;
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
 }
 
 h1, h2 {
@@ -317,4 +320,3 @@ code {
   right: 0;
   border-right-color: var(--border);
 }
-
