@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       vue:
-        specifier: ^3.5.34
+        specifier: ^3.5.35
         version: 3.5.35(typescript@6.0.3)
     devDependencies:
       '@types/node':
@@ -25,7 +25,7 @@ importers:
         specifier: ~6.0.2
         version: 6.0.3
       vite:
-        specifier: ^8.0.12
+        specifier: ^8.0.16
         version: 8.0.16(@types/node@24.12.4)
       vue-tsc:
         specifier: ^3.2.8
